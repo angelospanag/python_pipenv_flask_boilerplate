@@ -5,6 +5,12 @@ name = "pypi"
 
 [packages]
 flask = "*"
+flask-migrate = "*"
+click = "*"
+coverage = "*"
+flask-sqlalchemy = "*"
+gunicorn = "*"
+"psycopg2" = "*"
 
 [dev-packages]
 "autopep8" = "*"
